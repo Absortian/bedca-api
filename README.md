@@ -9,14 +9,14 @@ PHP API wrapper to get foods from http://www.bedca.net/bdpub/ public database.
 Install this package via [Composer](https://getcomposer.org/).
 
 ```
-composer require statickidz/bedca-api
+composer require Absortian/bedca-api
 ```
 
-Or edit your project's `composer.json` to require `statickidz/bedca-api` and then run `composer update`.
+Or edit your project's `composer.json` to require `Absortian/bedca-api` and then run `composer update`.
 
 ```json
 "require": {
-    "statickidz/bedca-api": "1.1.0"
+    "Absortian/bedca-api": "1.1.0"
 }
 ```
 
