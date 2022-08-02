@@ -24,7 +24,7 @@ Or edit your project's `composer.json` to require `Absortian/bedca-api` and then
 
 #### Init
 ```php
-use StaticKidz\BedcaAPI\BedcaClient;
+use Absortian\BedcaAPI\BedcaClient;
 
 $client = new BedcaClient();
 ```

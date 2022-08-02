@@ -1,12 +1,12 @@
 <?php
 
-namespace StaticKidz\BedcaAPI\Request;
+namespace Absortian\BedcaAPI\Request;
 
 /**
  * Raw XML requests for Bedca API.
  *
- * @author      StaticKidz <statickidz@gmail.com>
- * @link        https://statickidz.com/
+ * @author      Absortian <absortian@gmail.com>
+ * @link        https://iam.absor.top/
  * @license     MIT
  */
 class BedcaXMLRequests
