@@ -1,14 +1,14 @@
 <?php
 
-namespace StaticKidz\BedcaAPI;
+namespace Absortian\BedcaAPI;
 
-use StaticKidz\BedcaAPI\Request\BedcaXMLRequests;
+use Absortian\BedcaAPI\Request\BedcaXMLRequests;
 
 /**
  * API client for Spanish Food Composition Database (BEDCA)
  *
- * @author      StaticKidz <statickidz@gmail.com>
- * @link        https://statickidz.com/
+ * @author      Absortian <absortian@gmail.com>
+ * @link        https://iam.absor.top
  * @license     MIT
  */
 class BedcaClient
